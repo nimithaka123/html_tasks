@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+    width: auto;
+   margin-left: 10%;
+   margin-right: 10%;
+   background-color: lightgray;
+}
+.main-heading{
+    text-align: center;
+    width: 100%;
+    background-color:pink;
+    position: fixed;
+    top:0px;
+    padding-top: 10px;
+}
+/* .book-image{
+    width: 28%;
+} */
+.book-image img{
+    width: auto;
+    height: 320px;
+    margin-left: 50px;
+    padding-right:40px;
+    margin-right: 3%;
+
+}
+.book-desc{
+    /* margin-left: 50px; */
+    padding-left: 10px;
+}
+.book{
+    margin-right: 50px;
+    margin-top: 20px;
+    
+}
+.button{
+    padding-top: 15px;
+}
+.button input{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+    
+}
+#second-book{
+    margin-left: 40px;
+    /* margin-right: 10px;  */
+}
+/* .book-image{
+    padding-top: 50px;
+    flex: 50%;
+    height: 300px;
+    width:200px;
+    margin-left: 70px;
+}
+.details{
+    flex: 50%;
+    margin-left: -400px;
+    padding-top: 60px;
+} */
+.book-details{
+    display: flex;
+    margin-top: 35px;
+    padding-top: 40px;
+}
+.book-heading h1{
+    color: brown;
+}
+.book p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 17px;
+    word-spacing: 2px;
+    color: black;
+
+}
+/* .image{
+    /* height: 350px;
+    width: 350px; */
+    /* width: 40%;
+    height: auto; */
+/* }  */
+
+#button1, #button2{
+    background-color: green;
+    height: 25px;
+    width: 100px;
+
+}
+#button1:hover, #button2:hover {
+    background-color: red;
+}
+#button2{
+    margin-left: 20px;
+}
+
+/* .image_size{
+    height: auto;
+    width: 100px;
+} */

@@ -1,0 +1,88 @@
+.one{
+    /* width: 100%; */
+    background-color: blueviolet;
+    display: flex;
+    margin-top: 50px;
+}
+.twoa{
+    background-color: brown;
+}
+.twob{
+    background-color: crimson;
+}
+.two{
+    display:flex;
+
+}
+.three{
+    display: flex;
+}
+.threea{
+    background-color: gold;
+
+}
+.threeb{
+    background-color: darkorange;
+}
+.threec{
+    background-color: greenyellow;
+}
+.threed{
+    background-color: lawngreen;
+}
+.four{
+    display: flex;
+    background-color: olive;
+}
+.one p, .four p{
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 20px;
+    font-size: 18px;
+    font-weight: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+}
+.twoa p{
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 20px;
+    font-size: 18px;
+    font-weight: 1px;
+    font-family:cursive;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+
+}
+.twob p{
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 20px;
+    font-size: 18px;
+    font-weight: 1px;
+    font-family:fantasy;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    
+
+
+}
+.threea p, .threeb p, .threec p{
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 20px;
+    font-size: 18px;
+    font-weight: 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+
+}
+.container{
+    width:90% ;
+    margin-left: auto;
+    margin-right: auto;
+
+}
